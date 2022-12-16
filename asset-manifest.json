@@ -4,19 +4,19 @@
     "app.js.map": "/react-native-table/static/js/app.aa20bce5.chunk.js.map",
     "runtime~app.js": "/react-native-table/static/js/runtime~app.0d3fa71f.js",
     "runtime~app.js.map": "/react-native-table/static/js/runtime~app.0d3fa71f.js.map",
-    "static/js/2.8c17f22f.chunk.js": "/react-native-table/static/js/2.8c17f22f.chunk.js",
-    "static/js/2.8c17f22f.chunk.js.map": "/react-native-table/static/js/2.8c17f22f.chunk.js.map",
+    "static/js/2.84d54319.chunk.js": "/react-native-table/static/js/2.84d54319.chunk.js",
+    "static/js/2.84d54319.chunk.js.map": "/react-native-table/static/js/2.84d54319.chunk.js.map",
     "favicon-16.png": "/react-native-table/favicon-16.png",
     "favicon-32.png": "/react-native-table/favicon-32.png",
     "favicon.ico": "/react-native-table/favicon.ico",
     "index.html": "/react-native-table/index.html",
     "manifest.json": "/react-native-table/manifest.json",
     "serve.json": "/react-native-table/serve.json",
-    "static/js/2.8c17f22f.chunk.js.LICENSE.txt": "/react-native-table/static/js/2.8c17f22f.chunk.js.LICENSE.txt"
+    "static/js/2.84d54319.chunk.js.LICENSE.txt": "/react-native-table/static/js/2.84d54319.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.0d3fa71f.js",
-    "static/js/2.8c17f22f.chunk.js",
+    "static/js/2.84d54319.chunk.js",
     "static/js/app.aa20bce5.chunk.js"
   ]
 }
